@@ -15,8 +15,8 @@
 
 ```
   ╔══════════════════════════════════════════════════════════╗
-  ║   X|0⟩ = |1⟩      H|0⟩ = |+⟩      CZ|11⟩ = -|11⟩     ║
-  ║   Grover's O(√N) vs Classical O(N)                      ║
+  ║   X|0⟩ = |1⟩      H|0⟩ = |+⟩      CZ|11⟩ = -|11⟩           ║
+  ║   Grover's O(√N) vs Classical O(N)                       ║
   ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -279,9 +279,6 @@ Day 04  ──  ⬡   Variational Algorithm Design · VQE · parametric circuits
 Day 05  ──  ·   QAOA · optimisation landscape · Qiskit Patterns
 Day 06  ──  ·   Quantum Error Mitigation · noise models · ZNE
 Day 07  ──  ·   Review · run all experiments on real IBM hardware
-·
-·
-Day 20  ──  ·   Final push · 50+ applications · LinkedIn article
 ```
 
 ---
