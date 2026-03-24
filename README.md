@@ -277,10 +277,8 @@ Day 02  ──  ✅  Superposition · Entanglement · Multi-gate circuits
 Day 03  ──  ✅  Gates deep-dive · Grover's algorithm
 Day 04  ──  ⬡   Variational Algorithm Design · VQE · parametric circuits
 Day 05  ──  ·   QAOA · optimisation landscape · Qiskit Patterns
-Day 06  ──  ·   Quantum Error Mitigation · noise models · ZNE
-Day 07  ──  ·   Review · run all experiments on real IBM hardware
-```
 
+```
 ---
 
 ## Security
